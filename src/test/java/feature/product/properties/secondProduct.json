@@ -1,0 +1,16 @@
+{
+    "productId": "3d4af301-47b2-11ee-9d72-0242ac150002",
+    "productName": "Zebra print pillow case",
+    "productShortDesc": "Zebra Print premium-grade, soft, and breathable",
+    "productLongDesc": "This exquisite pillowcase is designed to elevate the look of your bedding ensemble while providing ultimate comfort and support for a restful night sleep.Crafted from premium-grade, soft, and breathable fabric.",
+    "productMake": "Durable and Long-Lasting: This pillowcase is made to withstand regular use and retain its vibrant colors and patterns even after numerous washes.",
+    "quantity": 20,
+    "quantityAvail": 18,
+    "originalPrice": "20.00",
+    "discountPrice": "19.00",
+    "discount": 5,
+    "productImage": "http://localhost:3008/zebra_pillow.jpeg",
+    "productCategory": "Bedding",
+    "createdDate": "2023-08-31T03:55:35.000Z",
+    "updatedDate": "2023-08-31T03:55:35.000Z"
+}
