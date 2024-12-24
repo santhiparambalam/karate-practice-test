@@ -1,0 +1,7 @@
+{
+    "URLS": {
+        "URL_USER": "http://localhost:3000",
+        "URL_PRODUCT": "http://localhost:3001",
+        "URL_ORDER": "http://localhost:3002/order/"
+    }
+}
